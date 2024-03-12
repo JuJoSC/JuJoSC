@@ -1,0 +1,1 @@
+- 🌱 I’m currently learning the basics of programing in Phyton and C++ 
